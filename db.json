@@ -12,5 +12,12 @@
         "description": "Detects objects in images and videos.",
         "sample code": "Google Object Detector Code",
         "likes": 700
+    },
+        {
+        "id": 3,
+        "name": "Object Detector",
+        "description": "Detects objects in images and videos.",
+        "sample code": "Google Object Detector Code",
+        "likes": 700
     }
 ]
