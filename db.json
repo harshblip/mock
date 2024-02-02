@@ -1,23 +1,26 @@
-[
-    {
-        "id": 1,
-        "name": "Text Analyzer",
-        "description": "Analyzes text data for sentiment, keywords, and entities.",
-        "sample code": "IBM Text Analyzer Code",
-        "likes": 500
-    },
-    {
-        "id": 2,
-        "name": "Object Detector",
-        "description": "Detects objects in images and videos.",
-        "sample code": "Google Object Detector Code",
-        "likes": 700
-    },
+{
+    "posts" :[
         {
-        "id": 3,
-        "name": "Object Detector",
-        "description": "Detects objects in images and videos.",
-        "sample code": "Google Object Detector Code",
-        "likes": 700
-    }
-]
+            "id": 1,
+            "name": "Text Analyzer",
+            "description": "Analyzes text data for sentiment, keywords, and entities.",
+            "sample code": "IBM Text Analyzer Code",
+            "likes": 500
+        },
+        {
+            "id": 2,
+            "name": "Text Analyzer",
+            "description": "Analyzes text data for sentiment, keywords, and entities.",
+            "sample code": "IBM Text Analyzer Code",
+            "likes": 500
+        },
+        {
+            "id": 3,
+            "name": "Text Analyzer",
+            "description": "Analyzes text data for sentiment, keywords, and entities.",
+            "sample code": "IBM Text Analyzer Code",
+            "likes": 500
+        }
+    
+    ]
+}
