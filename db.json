@@ -1,14 +1,14 @@
 [
     {
+        "id": 1,
         "name": "Text Analyzer",
-        "accuracy": "95%",
         "description": "Analyzes text data for sentiment, keywords, and entities.",
         "sample code": "IBM Text Analyzer Code",
         "likes": 500
     },
     {
+        "id": 2,
         "name": "Object Detector",
-        "accuracy": "98%",
         "description": "Detects objects in images and videos.",
         "sample code": "Google Object Detector Code",
         "likes": 700
