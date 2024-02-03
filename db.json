@@ -17,6 +17,7 @@
             },
             {
                 "id": 2,
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/2.jpg",
                 "modelName": "Visionary Observer",
                 "name": "Object Detector",
                 "maker": "Google",
@@ -31,6 +32,7 @@
             },
             {
                 "id": 3,
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/3.jpg",
                 "modelName": "Echo Transcriber",
                 "name": "Speech Recognizer",
                 "maker": "Microsoft",
@@ -45,6 +47,7 @@
             },
             {
                 "id": 4,
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/4.jpg",
                 "modelName": "Pixel Pundit",
                 "name": "Image Classifier",
                 "maker": "Amazon",
@@ -59,6 +62,7 @@
             },
             {
                 "id": 5,
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/5.jpg",
                 "modelName": "Emotion Detective",
                 "name": "Sentiment Analyzer",
                 "maker": "Facebook",
@@ -73,6 +77,7 @@
             },
             {
                 "id": 6,
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/6.jpg",
                 "modelName": "ConvoConstructor",
                 "name": "Chatbot Builder",
                 "maker": "DialogFlow",
@@ -87,6 +92,7 @@
             },
             {
                 "id": 7,
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/7.jpg",
                 "modelName": "Predictive Pal",
                 "name": "Recommender System",
                 "maker": "Netflix",
@@ -101,6 +107,7 @@
             },
             {
                 "id": 8,
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/8.jpg",
                 "modelName": "FaceFrame",
                 "name": "Facial Recognition",
                 "maker": "Apple",
@@ -115,6 +122,7 @@
             },
             {
                 "id": 9,
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/2.jpg",
                 "modelName": "Trend Tracker",
                 "name": "Predictive Analysis",
                 "maker": "Salesforce",
@@ -129,6 +137,7 @@
             },
             {
                 "id": 10,
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/4.jpg",
                 "modelName": "ScriptSmith",
                 "name": "Text Generation",
                 "maker": "OpenAI",
