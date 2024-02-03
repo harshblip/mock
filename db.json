@@ -2,7 +2,7 @@
     "models" :[
             {
                 "id": 1,
-                "logo": "/images/1.jpg",
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/1.jpg",
                 "modelName": "SentiMentor",
                 "name": "Text Analyzer",
                 "maker": "IBM",
