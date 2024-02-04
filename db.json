@@ -3,7 +3,7 @@
             {
                 "id": 1,
                 "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/1.png",
-                "modelName": "SentiMentor",
+                "modelName": "Senti Mentor",
                 "name": "Text Analyzer",
                 "maker": "IBM",
                 "type": "Organization",
@@ -83,7 +83,7 @@
             {
                 "id": 6,
                 "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/6.png",
-                "modelName": "ConvoConstructor",
+                "modelName": "Convo Constructor",
                 "name": "Chatbot Builder",
                 "maker": "Alex Juniper",
                 "type": "Person",
@@ -147,7 +147,7 @@
             {
                 "id": 10,
                 "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/4.png",
-                "modelName": "ScriptSmith",
+                "modelName": "Script Smith",
                 "name": "Text Generation",
                 "type": "Organization",
                 "maker": "OpenAI",
