@@ -44,8 +44,8 @@
                 "sampleCode": "Microsoft Speech Recognizer Code",
                 "UseCases": "Voice assistants, transcription services",
                 "likes": 613,
-                "usedBy": "454",
-                "tags": "Speech Recognition, Text Transcription",
+                "usedBy": 454,
+                "tags": "Speech Recognition, Text Transcription"
             },
             {
                 "id": 4,
@@ -60,8 +60,8 @@
                 "sampleCode": "Amazon Image Classifier Code",
                 "UseCases": "E-commerce recommendation systems, photo libraries",
                 "likes": 804,
-                "usedBy": "323",
-                "tags": "Image Classification, Deep Learning",
+                "usedBy": 323,
+                "tags": "Image Classification, Deep Learning"
             },
             {
                 "id": 5,
@@ -76,8 +76,8 @@
                 "sampleCode": "Facebook Sentiment Analyzer Code",
                 "UseCases": "Review analysis, social media sentiment tracking",
                 "likes": 555,
-                "usedBy": "235",
-                "tags": "Sentiment Analysis, NLP",
+                "usedBy": 235,
+                "tags": "Sentiment Analysis, NLP"
             },
             {
                 "id": 6,
@@ -92,8 +92,8 @@
                 "sampleCode": "DialogFlow Chatbot Builder Code",
                 "UseCases": "Customer service bots, personal assistant apps",
                 "likes": 898,
-                "usedBy": "476",
-                "tags": "Chatbot Development, Conversational AI",
+                "usedBy": 476,
+                "tags": "Chatbot Development, Conversational AI"
             },
             {
                 "id": 7,
@@ -108,8 +108,8 @@
                 "sampleCode": "Netflix Recommender System Code",
                 "UseCases": "Streaming platforms, online shopping sites",
                 "likes": 749,
-                "usedBy": "667",
-                "tags": "Recommender System, Personalization",
+                "usedBy": 667,
+                "tags": "Recommender System, Personalization"
             },
             {
                 "id": 8,
@@ -124,8 +124,8 @@
                 "sampleCode": "Apple Facial Recognition Code",
                 "UseCases": "Security systems, biometric authentication",
                 "likes": 853,
-                "usedBy": "474",
-                "tags": "Facial Recognition, Biometrics",
+                "usedBy": 474,
+                "tags": "Facial Recognition, Biometrics"
             },
             {
                 "id": 9,
@@ -140,8 +140,8 @@
                 "sampleCode": "Salesforce Predictive Analysis Code",
                 "UseCases": "Sales forecasting, stock market prediction",
                 "likes": 658,
-                "usedBy": "345",
-                "tags": "Predictive Analytics, Trend Forecasting",
+                "usedBy": 345,
+                "tags": "Predictive Analytics, Trend Forecasting"
             },
             {
                 "id": 10,
@@ -156,8 +156,8 @@
                 "sampleCode": "OpenAI Text Generation Code",
                 "UseCases": "Content creation, chatbots",
                 "likes": 707,
-                "usedBy": "645",
-                "tags": "Text Generation, Natural Language Processing",
+                "usedBy": 645,
+                "tags": "Text Generation, Natural Language Processing"
             }
     ]
 }
