@@ -42,7 +42,7 @@
                 "lastUpdated": "03/2023",
                 "description": "Transcribes spoken words into written text. Utilizes advanced deep learning models for high accuracy. The Echo Transcriber is widely used in voice assistants and transcription services.",
                 "sampleCode": "Microsoft Speech Recognizer Code",
-                "UseCases": "Voice assistants, transcription services",
+                "useCases": "Voice assistants, transcription services",
                 "likes": 613,
                 "usedBy": 454,
                 "tags": "Speech Recognition, Text Transcription"
@@ -58,7 +58,7 @@
                 "lastUpdated": "04/2023",
                 "description": "Categorizes images into predefined classes. Pixel Pundit employs state-of-the-art convolutional neural networks for accurate image classification. Ideal for e-commerce recommendation systems and photo libraries.",
                 "sampleCode": "Amazon Image Classifier Code",
-                "UseCases": "E-commerce recommendation systems, photo libraries",
+                "useCases": "E-commerce recommendation systems, photo libraries",
                 "likes": 804,
                 "usedBy": 323,
                 "tags": "Image Classification, Deep Learning"
@@ -74,7 +74,7 @@
                 "lastUpdated": "05/2023",
                 "description": "Determines the sentiment expressed in a piece of text. Emotion Detective leverages natural language processing techniques to achieve high accuracy in sentiment analysis. Widely used for review analysis and social media sentiment tracking.",
                 "sampleCode": "Facebook Sentiment Analyzer Code",
-                "UseCases": "Review analysis, social media sentiment tracking",
+                "useCases": "Review analysis, social media sentiment tracking",
                 "likes": 555,
                 "usedBy": 235,
                 "tags": "Sentiment Analysis, NLP"
@@ -90,7 +90,7 @@
                 "lastUpdated": "06/2023",
                 "description": "Builds conversational agents that can interact with users. Convo Constructor provides a user-friendly platform to design and deploy chatbots with a focus on high user satisfaction. Ideal for customer service bots and personal assistant apps.",
                 "sampleCode": "DialogFlow Chatbot Builder Code",
-                "UseCases": "Customer service bots, personal assistant apps",
+                "useCases": "Customer service bots, personal assistant apps",
                 "likes": 898,
                 "usedBy": 476,
                 "tags": "Chatbot Development, Conversational AI"
@@ -106,7 +106,7 @@
                 "lastUpdated": "07/2023",
                 "description": "Suggests items to users based on their past behavior. Predictive Pal employs advanced machine learning algorithms to provide accurate recommendations. Widely used in streaming platforms and online shopping sites.",
                 "sampleCode": "Netflix Recommender System Code",
-                "UseCases": "Streaming platforms, online shopping sites",
+                "useCases": "Streaming platforms, online shopping sites",
                 "likes": 749,
                 "usedBy": 667,
                 "tags": "Recommender System, Personalization"
@@ -122,7 +122,7 @@
                 "lastUpdated": "08/2023",
                 "description": "Identifies faces in images and videos. FaceFrame, created by James F., utilizes cutting-edge facial recognition algorithms for high precision and recall. Widely used in security systems and biometric authentication.",
                 "sampleCode": "Apple Facial Recognition Code",
-                "UseCases": "Security systems, biometric authentication",
+                "useCases": "Security systems, biometric authentication",
                 "likes": 853,
                 "usedBy": 474,
                 "tags": "Facial Recognition, Biometrics"
@@ -138,7 +138,7 @@
                 "lastUpdated": "09/2023",
                 "description": "Forecasts future trends based on historical data. Trend Tracker, developed by Salesforce, employs advanced predictive analytics algorithms for accurate trend forecasting. Widely used in sales forecasting and stock market prediction.",
                 "sampleCode": "Salesforce Predictive Analysis Code",
-                "UseCases": "Sales forecasting, stock market prediction",
+                "useCases": "Sales forecasting, stock market prediction",
                 "likes": 658,
                 "usedBy": 345,
                 "tags": "Predictive Analytics, Trend Forecasting"
@@ -154,7 +154,7 @@
                 "lastUpdated": "10/2023",
                 "description": "Generates human-like text based on input prompts. Script Smith, powered by OpenAI, utilizes state-of-the-art language models for creative and coherent text generation. Ideal for content creation and chatbot responses.",
                 "sampleCode": "OpenAI Text Generation Code",
-                "UseCases": "Content creation, chatbots",
+                "useCases": "Content creation, chatbots",
                 "likes": 707,
                 "usedBy": 645,
                 "tags": "Text Generation, Natural Language Processing"
