@@ -3,6 +3,7 @@
             {
               "id": 1,
               "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/1.avif",
+              "blurLogo": "https://raw.githubusercontent.com/harshblip/mock/main/images/1.avif",
               "modelName": "Senti Mentor",
               "name": "Text Analyzer",
               "maker": "IBM",
