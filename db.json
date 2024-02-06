@@ -2,7 +2,7 @@
     "models" :[
             {
               "id": 1,
-              "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/1.png",
+              "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/1.avif",
               "modelName": "Senti Mentor",
               "name": "Text Analyzer",
               "maker": "IBM",
@@ -17,7 +17,7 @@
             },
             {
               "id": 2,
-              "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/2.png",
+              "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/2.avif",
               "modelName": "Visionary Observer",
               "name": "Object Detector",
               "maker": "Google",
@@ -33,7 +33,7 @@
             },
             {
                 "id": 3,
-                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/3.png",
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/3.avif",
                 "modelName": "Echo Transcriber",
                 "name": "Speech Recognizer",
                 "maker": "Microsoft",
@@ -49,7 +49,7 @@
             },
             {
                 "id": 4,
-                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/4.png",
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/4.avif",
                 "modelName": "Pixel Pundit",
                 "name": "Image Classifier",
                 "maker": "Amazon",
@@ -65,7 +65,7 @@
             },
             {
                 "id": 5,
-                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/5.png",
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/5.avif",
                 "modelName": "Emotion Detective",
                 "name": "Sentiment Analyzer",
                 "maker": "Facebook",
@@ -81,7 +81,7 @@
             },
             {
                 "id": 6,
-                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/6.png",
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/6.avif",
                 "modelName": "Convo Constructor",
                 "name": "Chatbot Builder",
                 "maker": "Alex Juniper",
@@ -97,7 +97,7 @@
             },
             {
                 "id": 7,
-                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/7.png",
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/7.avif",
                 "modelName": "Predictive Pal",
                 "name": "Recommender System",
                 "maker": "Netflix",
@@ -113,7 +113,7 @@
             },
             {
                 "id": 8,
-                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/8.png",
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/8.avif",
                 "modelName": "FaceFrame",
                 "name": "Facial Recognition",
                 "maker": "James F.",
@@ -129,7 +129,7 @@
             },
             {
                 "id": 9,
-                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/2.png",
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/2.avif",
                 "modelName": "Trend Tracker",
                 "name": "Predictive Analysis",
                 "maker": "Salesforce",
@@ -145,7 +145,7 @@
             },
             {
                 "id": 10,
-                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/4.png",
+                "logo": "https://raw.githubusercontent.com/harshblip/mock/main/images/4.avif",
                 "modelName": "Script Smith",
                 "name": "Text Generation",
                 "type": "Organization",
